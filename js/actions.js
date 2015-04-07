@@ -1,4 +1,5 @@
 (function(Reflux, global) {
+  'use strict';
 
   global.TodoActions = Reflux.createActions([
     'toggleItem',
